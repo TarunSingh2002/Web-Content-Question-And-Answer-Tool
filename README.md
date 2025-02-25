@@ -100,11 +100,10 @@ To set up and run the Web Content Question And Answer Tool on your local machine
 
 3. **Interact with the Tool:**
 
-  - Input URLs: Enter one or more URLs (each on a new line) in the provided text area.
-  - Ask a Question: Type your query in the designated input field.
-
-  - Submit: Click the "Get Answer" button to start the analysis.
-  - View the Answer: The tool will display a succinct answer generated from the content of the provided URLs.
+   - Input URLs: Enter one or more URLs (each on a new line) in the provided text area.
+   - Ask a Question: Type your query in the designated input field.
+   - Submit: Start the analysis by clicking the "Get Answer" button.
+   - View the Answer: The tool will display a succinct answer generated from the content of the provided URLs.
     ```bash
     URLs:
     https://en.wikipedia.org/wiki/Large_language_model
