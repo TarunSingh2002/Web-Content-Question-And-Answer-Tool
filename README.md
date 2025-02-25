@@ -107,7 +107,7 @@ To set up and run the Web Content Question And Answer Tool on your local machine
     ```bash
     URLs:
     https://en.wikipedia.org/wiki/Large_language_model
-    https://aws.amazon.com/what-is/llm/
+    https://www.geeksforgeeks.org/large-language-model-llm/
 
     Question:
     What are the main applications of LLMs?
